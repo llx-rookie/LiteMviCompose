@@ -48,7 +48,7 @@ class DemoViewModel : DslViewModel<DemoState, DemoIntent, DemoEffect>() {
         }
     }
 }
-3. 编写 UI
+4. 编写 UI
 使用 MviContainer 将 ViewModel 和 Composable 绑定。
 
 kotlin
